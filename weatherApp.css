@@ -1,0 +1,60 @@
+html,
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.w-logo {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.bg-sunny-gradient {
+  background: #e65c00;
+  background: -webkit-linear-gradient(to right, #f9d423, #e65c00);
+  background: linear-gradient(to right, #f9d423, #e65c00);
+}
+
+.bg-night-gradient {
+  background: #232526;
+  background: -webkit-linear-gradient(to right, #414345, #232526);
+  background: linear-gradient(to right, #414345, #232526);
+}
+
+.bg-gy-gradient {
+  background: #16a085;
+  background: -webkit-linear-gradient(to right, #f4d03f, #16a085);
+  background: linear-gradient(to right, #f4d03f, #16a085);
+}
+
+.bg-fbBlue-gradient {
+  background: #00c6ff;
+  background: -webkit-linear-gradient(to right, #0072ff, #00c6ff);
+  background: linear-gradient(to right, #0072ff, #00c6ff);
+}
+
+.bg-purple-gradient {
+  background: #6a3093;
+  background: -webkit-linear-gradient(to right, #a044ff, #6a3093);
+  background: linear-gradient(to right, #a044ff, #6a3093);
+}
+
+.bg-mauvepurple-gradient {
+  background: #42275a;
+  background: -webkit-linear-gradient(to right, #734b6d, #42275a);
+  background: linear-gradient(to right, #734b6d, #42275a);
+}
+
+.bg-darkpurple-gradient {
+  background: #41295a;
+  background: -webkit-linear-gradient(to right, #2f0743, #41295a);
+  background: linear-gradient(to right, #2f0743, #41295a);
+}
+
+.currentTemprature_title {
+  font-size: 5rem;
+}
+
+.curved-card {
+  border: none;
+  box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+  border-radius: 24px;
+}
